@@ -1,6 +1,10 @@
 # Android-UX-Designs
 
 
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/54402567/86997882-cc1a8280-c1cc-11ea-9fe4-a7ed13c56667.gif)
+
+
 This project shows different animation in the app and also second intent or we can say activity contains the stopwatch design.
 
 
